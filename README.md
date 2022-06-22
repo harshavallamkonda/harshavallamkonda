@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Connection Visuvalization**
+- 🔭 I’m currently working on **Connection Visuvalization using Python**
 
 - 🌱 Currently exploring about **Devops🦈**
 
