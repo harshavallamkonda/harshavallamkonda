@@ -9,7 +9,7 @@
 
 - 🌱 Currently exploring about **Devops🦈**
 
-- 👯 I’m looking to collaborate who **Who are intrested to work with me😁**
+- 👯 I’m looking to collaborate with **people intrested to work with me😁**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshavallamkonda](https://github.com/harshavallamkonda)
 
