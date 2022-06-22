@@ -2,7 +2,7 @@
 <h3 align="center">Avid Learner😎. Following the motto Learn 🔁 Explore 🔁 Repeat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshavallamkonda&label=Profile%20views&color=0e75b6&style=flat" alt="harshavallamkonda" /> </p>
-<img align="right" alt="" width="100" height="100" src=https://github.com/harshavallamkonda/harshavallamkonda/blob/main/courage-the-cowardly-dog-coding.gif">
+
 
 
 - 🔭 I’m currently working on **Connection Visuvalization**
