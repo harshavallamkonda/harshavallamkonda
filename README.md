@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **E-Voting System Using block-chain & Homomorphic Encryption**
+- 🔭 I’m currently focusing on **Job work on SQL**
 
-- 🌱 Currently exploring about **Devops🦈**
+- 🌱 Currently exploring about **Postgres SQL🦈**
 
 - 👯 I’m looking to collaborate with **people intrested to work with me😁**
 
