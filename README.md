@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently focusing on **Job work on SQL**
+- 🔭 I’m currently focusing on **Job work on SQL & CCL & Oracle Tools**
 
 - 🌱 Currently exploring about **Cybersecurity🦈**
 
