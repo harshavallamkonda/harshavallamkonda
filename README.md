@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently focusing on **Job work on SQL**
 
-- 🌱 Currently exploring about **Postgres SQL🦈**
+- 🌱 Currently exploring about **Cybersecurity🦈**
 
 - 👯 I’m looking to collaborate with **people intrested to work with me😁**
 
