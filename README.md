@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently focusing on **Job work on SQL & CCL & Oracle Tools**
+- 🔭 I’m currently focusing on **Devops & SRE**
 
-- 🌱 Currently exploring about **Cybersecurity🦈**
+- 🌱 Currently exploring about **Devops & SRE🦈**
 
 - 👯 I’m looking to collaborate with **people intrested to work with me😁**
 
